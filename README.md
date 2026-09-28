@@ -6,7 +6,7 @@ Homebrew formulas and public, versioned release binaries for multiple tools.
 brew install pprotas/tap/slopbox
 ```
 
-The current Slopbox binary supports Apple Silicon macOS only. Slopbox is experimental and requires Node.js, the Pi CLI, and host configuration before starting a session.
+The current Slopbox Homebrew binary supports Apple Silicon macOS only. Slopbox is experimental. Generic commands require host configuration and explicitly selected runtime resources; the legacy integrated Pi mode also requires Node.js and Pi.
 
 ## Development
 
